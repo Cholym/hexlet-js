@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/Cholym/hexlet-js/issues"
   },
-  "homepage": "https://github.com/Cholym/hexlet-js#readme"
+  "homepage": "https://github.com/Cholym/hexlet-js#readme",
+  "devDependencies": {
+    "jest": "^28.1.0"
+  }
 }
